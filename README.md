@@ -1,3 +1,3 @@
-# telegramBotHerokuColab
+# TelegramBotonPython
 
 Тестовое описание
